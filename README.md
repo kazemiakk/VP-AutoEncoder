@@ -28,8 +28,6 @@ This section trains the Autoencoder model using the train data and validation da
 Section 4: Test Autoencoder Model
 This section tests the trained Autoencoder model using the test data. The script calculates the AUC, training accuracy, testing accuracy, and validating accuracy in percentage and prints them for each epoch. The results are plotted for online monitoring of the training/testing.
 
-Acknowledgments
-This project is based on the work of [Your Name Here] and is intended for educational purposes only.
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
